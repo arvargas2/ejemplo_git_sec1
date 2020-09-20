@@ -1,0 +1,11 @@
+* {
+    border: 0px;
+    padding: 0px;
+}
+
+header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    size: 50px;
+    color: orange;
+    text-align: center;
+}
