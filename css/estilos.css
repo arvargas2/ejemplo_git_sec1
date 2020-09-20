@@ -9,3 +9,12 @@ header {
     color: orange;
     text-align: center;
 }
+
+.contenido {
+    background-color:beige;
+}
+.font_comando {
+    font-size: xx-large;
+    color: blue ;
+    text-align: start;
+}
